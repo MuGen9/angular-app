@@ -23,12 +23,6 @@
       "text": "Test",
       "day": "May 7th at 12:30pm",
       "reminder": false
-    },
-    {
-      "id": "5922",
-      "text": "Random task",
-      "day": "Monday",
-      "reminder": true
     }
   ]
 }
